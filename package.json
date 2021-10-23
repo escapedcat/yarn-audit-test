@@ -6,7 +6,7 @@
   "repository": "git@github.com:escapedcat/yarn-audit-test.git",
   "license": "MIT",
   "dependencies": {
-    "create-react-app": "2.0.0"
+    "create-react-app": "4.0.3"
   },
   "devDependencies": {
     "@commitlint/cli": "7.0.0"
