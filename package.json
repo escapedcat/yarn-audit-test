@@ -1,0 +1,14 @@
+{
+  "name": "yarn-audit-test",
+  "version": "0.0.1",
+  "description": "testing yarn audit",
+  "main": "index.js",
+  "repository": "git@github.com:escapedcat/yarn-audit-test.git",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "2.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "7.0.0"
+  }
+}
