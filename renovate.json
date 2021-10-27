@@ -1,6 +1,0 @@
-{
-  "extends": ["config:base", ":dependencyDashboard"],
-  "npm": {
-    "stabilityDays": 5
-  }
-}
